@@ -1,0 +1,36 @@
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+
+}
+
+.red-button {
+    background-color: #a11;
+    color: #fff;
+}
+
+.green-button {
+    background-color: #072;
+    color: #fff;
+}
+
+.links line {
+  stroke: #000;
+  stroke-opacity: 0.1;
+}
+
+.nodes circle {        
+
+}
+
+text {
+  fill: #000;
+  font: 10px sans-serif;
+  pointer-events: none;
+}
